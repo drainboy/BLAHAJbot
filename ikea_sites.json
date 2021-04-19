@@ -1,0 +1,206 @@
+{
+    "https://www.ikea.com/ae/en/": {
+        "country": "United Arab Emirates",
+        "country_code": "AE"
+    },
+    "https://www.ikea.com/au/en/": {
+        "country": "Australia",
+        "country_code": "AU"
+    },
+    "https://www.ikea.com/at/de/": {
+        "country": "Austria",
+        "country_code": "AT"
+    },
+    "https://www.ikea.com/be/nl/": {
+        "country": "Belgium",
+        "country_code": "BE"
+    },
+    "https://www.ikea.com.tr/": {
+        "country": "Turkey",
+        "country_code": "TR"
+    },
+    "https://www.ikea.com/bh/en/": {
+        "country": "Bahrain",
+        "country_code": "BH"
+    },
+    "https://www.ikea.com/ca/en/": {
+        "country": "Canada",
+        "country_code": "CA"
+    },
+    "https://www.ikea.com/ch/de/": {
+        "country": "Switzerland",
+        "country_code": "CH"
+    },
+    "https://www.ikea.cn/cn/zh/": {
+        "country": "China",
+        "country_code": "CN"
+    },
+    "https://www.ikea.com.cy/": {
+        "country": "Cyprus",
+        "country_code": "CY"
+    },
+    "https://www.ikea.com/cz/cs/": {
+        "country": "Czechia",
+        "country_code": "CZ"
+    },
+    "https://www.ikea.com/de/de/": {
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "https://www.ikea.com/dk/da/": {
+        "country": "Denmark",
+        "country_code": "DK"
+    },
+    "https://www.ikea.com/eg/en/": {
+        "country": "Egypt",
+        "country_code": "EG"
+    },
+    "https://www.ikea.com/es/es/": {
+        "country": "Spain",
+        "country_code": "ES"
+    },
+    "https://www.ikea.com/fi/fi/": {
+        "country": "Finland",
+        "country_code": "FI"
+    },
+    "https://www.ikea.com/fr/fr/": {
+        "country": "France",
+        "country_code": "FR"
+    },
+    "https://www.ikea.com/gb/en/": {
+        "country": "United Kingdom",
+        "country_code": "GB"
+    },
+    "https://www.ikea.com.hk/zh/": {
+        "country": "Hong Kong",
+        "country_code": "HK"
+    },
+    "https://www.ikea.com/hr/hr/": {
+        "country": "Croatia",
+        "country_code": "HR"
+    },
+    "https://www.ikea.com/hu/hu/": {
+        "country": "Hungary",
+        "country_code": "HU"
+    },
+    "https://www.ikea.co.id/en/": {
+        "country": "Indonesia",
+        "country_code": "ID"
+    },
+    "https://www.ikea.com/in/en/": {
+        "country": "India",
+        "country_code": "IN"
+    },
+    "https://www.ikea.com/ie/en/": {
+        "country": "Ireland",
+        "country_code": "IE"
+    },
+    "https://www.ikea.com/it/it/": {
+        "country": "Italy",
+        "country_code": "IT"
+    },
+    "https://www.ikea.com/jo/en/": {
+        "country": "Jordan",
+        "country_code": "JO"
+    },
+    "https://www.ikea.com/jp/ja/": {
+        "country": "Japan",
+        "country_code": "JP"
+    },
+    "https://www.ikea.com/kr/ko/": {
+        "country": "Korea, Republic of",
+        "country_code": "KR"
+    },
+    "https://www.ikea.com/kw/en/": {
+        "country": "Kuwait",
+        "country_code": "KW"
+    },
+    "https://www.ikea.lt/lt": {
+        "country": "Lithuania",
+        "country_code": "LT"
+    },
+    "https://www.ikea.lv/lv/": {
+        "country": "Latvia",
+        "country_code": "LV"
+    },
+    "https://www.ikea.com/ma/en/": {
+        "country": "Morocco",
+        "country_code": "MA"
+    },
+    "https://www.ikea.com/mx/es/": {
+        "country": "Mexico",
+        "country_code": "MX"
+    },
+    "https://www.ikea.com/my/en/": {
+        "country": "Malaysia",
+        "country_code": "MY"
+    },
+    "https://www.ikea.com/nl/nl/": {
+        "country": "Netherlands",
+        "country_code": "NL"
+    },
+    "https://www.ikea.com/no/no/": {
+        "country": "Norway",
+        "country_code": "NO"
+    },
+    "https://www.ikea.com/pl/pl/": {
+        "country": "Poland",
+        "country_code": "PL"
+    },
+    "https://www.ikea.com/pt/pt/": {
+        "country": "Portugal",
+        "country_code": "PT"
+    },
+    "https://www.ikea.com/qa/en/": {
+        "country": "Qatar",
+        "country_code": "QA"
+    },
+    "https://www.ikea.com/ro/ro/": {
+        "country": "Romania",
+        "country_code": "RO"
+    },
+    "https://www.ikea.com/ru/ru/": {
+        "country": "Russian Federation",
+        "country_code": "RU"
+    },
+    "https://www.ikea.com/sa/ar/": {
+        "country": "Saudi Arabia",
+        "country_code": "SA"
+    },
+    "https://www.ikea.com/sg/en/": {
+        "country": "Singapore",
+        "country_code": "SG"
+    },
+    "https://www.ikea.com/rs/sr/": {
+        "country": "Serbia",
+        "country_code": "RS"
+    },
+    "https://www.ikea.com/sk/sk/": {
+        "country": "Slovakia",
+        "country_code": "SK"
+    },
+    "https://www.ikea.com/si/sl/": {
+        "country": "Slovenia",
+        "country_code": "SI"
+    },
+    "https://www.ikea.com/se/sv/": {
+        "country": "Sweden",
+        "country_code": "SE"
+    },
+    "https://www.ikea.com/th/th/": {
+        "country": "Thailand",
+        "country_code": "TH"
+    },
+    "https://www.ikea.com.tw/zh": {
+        "country": "Taiwan, Province of China",
+        "country_code": "TW"
+    },
+    "https://www.ikea.com/ua/uk/": {
+        "country": "Ukraine",
+        "country_code": "UA"
+    },
+    "https://www.ikea.com/us/en/": {
+        "country": "United States",
+        "country_code": "US"
+    }
+}
